@@ -19,6 +19,8 @@ console.log(thoughts);
         ) : (
           <ThoughtList thoughts={thoughts} title="Some food for Thought(s)..." />
         )}
+        
+        
         </div>
       </div>
     </main>
